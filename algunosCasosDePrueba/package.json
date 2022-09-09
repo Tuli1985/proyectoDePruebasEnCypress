@@ -1,0 +1,24 @@
+{
+  "name": "proyectodepruebasencypress",
+  "version": "1.0.0",
+  "description": "En este proyecto estaremos automatizando pruebas sobre un e-commerce de ropa",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "parcticas",
+    "pruebas"
+  ],
+  "author": "Alberto Nuñez",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.7.0"
+  },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/Tuli1985/proyectoDePruebasEnCypress"
+  }
+}
